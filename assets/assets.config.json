@@ -1,0 +1,23 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "banner.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo-doorash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-doordash.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-grubhub-restaurante.svg": {
+    "mime": "image/svg+xml"
+  }
+}
